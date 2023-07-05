@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do LucasAlvesFonseca😁
 
  <div>
    <a href="https://github.com/LucasAlvesFonseca">
@@ -21,6 +21,5 @@
   <a href = "mailto:lucasalvesfonseca147@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  
-![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
