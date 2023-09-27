@@ -20,6 +20,7 @@ Meu nome é Lucas, sou estudante apaixonado por tecnologia desde minha infância
  
 <div> 
 <a href="https://www.discord.com/in/_pandaanonimo/"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
- 
+<a href="https://www.instagram.com/_Pandaanonimo/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+
 
 </div>
