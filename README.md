@@ -1,6 +1,6 @@
 # <img src="https://your-avatar-url" width="30px"> Bem-vindo ao meu Universo!
 
-Olá, sou [Seu Nome], um explorador do código em constante evolução! 👨‍💻
+Olá, sou Lucas, um explorador do código em constante evolução! 👨‍💻
 
 ## 🌐 Sobre Mim
 - 🎓 Estudante de Ciência da Computação no segundo período.
