@@ -1,4 +1,4 @@
-# <img src="https://your-avatar-url" width="30px"> Bem-vindo ao meu Universo!
+### Bem-vindo ao meu Universo!
 
 Olá, sou Lucas, um explorador do código em constante evolução! 👨‍💻
 
