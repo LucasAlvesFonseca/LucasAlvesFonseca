@@ -1,28 +1,36 @@
-### Bem-vindo ao meu Universo!
+## 💜 Olá, meu nome é Lucas A. Fonseca!
 
-Olá, sou Lucas, um explorador do código em constante evolução! 👨‍💻
+Sou um estudante do curso de Ciência da Computação apaixonado por desenvolvimento e sempre em busca de novos layouts!
 
-## 🌐 Sobre Mim
-- 🎓 Estudante de Ciência da Computação no segundo período.
-- 🚀 Front-End Developer apaixonado por criar experiências incríveis na web.
-- 🎮 Desde a infância, brinco com scripts para jogos, inspirando minha jornada no mundo da programação.
-- 💡 Constantemente aprendendo e evoluindo minhas habilidades em HTML, CSS e JavaScript.
+🔭 Atualmente, estou trabalhando em um projeto de aplicativo web para gerenciamento de tarefas, utilizando tecnologias como React.js, Node.js e MongoDB. Estou animado para compartilhar mais sobre ele em breve!
 
-## 💻 Habilidades
-- HTML
-- CSS
-- JavaScript
+💬  Se você tiver alguma pergunta sobre meu trabalho ou quiser discutir colaborações, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas ideias e oportunidades de aprendizado!
 
-## 🚀 Objetivos
-- 🌱 Aprimorar habilidades em JavaScript e explorar frameworks Front-End.
-- 🛠 Contribuir para projetos Open Source.
-- 🚀 Construir uma carreira sólida como Desenvolvedor Front-End.
+---
 
-## 🌐 Vamos Conectar!
-Se você também é apaixonado por código, tecnologia e quer trocar ideias, fique à vontade para me encontrar online:
+## 🚀 Minhas Skills
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-alves-fonseca-a63b88246)
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
+---
 
+## ⭐ GitHub Stats
 
-Mal posso esperar para conectar e compartilhar conhecimentos! 🚀✨
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAlvesFonseca&show_icons=true)
+
+---
+
+## 💬 Entre em Contato
+
+Você pode me contatar através do meu email: lucas@example.com
+
+Ou conectar comigo via [LinkedIn](https://www.linkedin.com/in/lucas-a-fonseca)
