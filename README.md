@@ -41,7 +41,8 @@ Desenvolver projetos sólidos para aprimorar minhas habilidades como desenvolved
 
 ## 🤝 Vamos Conversar?
 
-📩 Email: **lucas@example.com**  
+📩 [Envie um e-mail para mim](mailto:lucasalvesfonseca147@gmail.com)
+📞 [Envie uma mensagem no WhatsApp](https://wa.me/5521981413037)
 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-a-fonseca)
 
 Estou sempre aberto para trocar ideias, aprender mais e colaborar em projetos incríveis!
