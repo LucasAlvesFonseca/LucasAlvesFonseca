@@ -2,6 +2,8 @@
 
 Sou estudante de Ciência da Computação com uma paixão genuína por desenvolvimento web e resolução de problemas. Estou sempre explorando novas tecnologias e formas criativas de construir soluções eficientes.
 
+Atualmente estou no 4 Período da faculdade.
+
 🎯 **Objetivo Atual:**  
 Desenvolver projetos sólidos para aprimorar minhas habilidades como desenvolvedor e conquistar uma oportunidade de estágio. 
 
