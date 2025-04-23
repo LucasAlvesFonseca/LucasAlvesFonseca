@@ -9,7 +9,7 @@ Desenvolver projetos sólidos para aprimorar minhas habilidades como desenvolved
 
 ---
 
-## 🚧 Projeto em Andamento
+## 🚧 Projetos em Andamento
 
 🔨 **To-do API** – Um sistema de gerenciamento de tarefas desenvolvido com:
 - **Node.js** e **Express.js** no backend
@@ -17,6 +17,8 @@ Desenvolver projetos sólidos para aprimorar minhas habilidades como desenvolved
 
 > A ideia é transformar essa API futuramente em um aplicativo completo que se adapte às minhas necessidades pessoais de organização e produtividade.
 
+🔨 **LIB de Estatística** – Apenas uma conjunto de ferramenta para facilitar os cálculos estatísticos:
+- **Node.js**
 ---
 
 ## 🚀 Tecnologias e Ferramentas
