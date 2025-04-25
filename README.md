@@ -34,6 +34,8 @@ Desenvolver projetos sólidos para aprimorar minhas habilidades como desenvolved
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
+<code><img height="32" src="https://www.flaticon.com/free-icon/php_919830?term=php&page=1&position=2&origin=search&related_id=919830" alt="PHP"/></code>
+<code><img height="32" src="https://www.flaticon.com/free-icon/php_919830?term=php&page=1&position=2&origin=search&related_id=919830" alt="PHP"/></code>
 
 ---
 
